@@ -15,6 +15,3 @@
 - [ ] RxJS
 - [ ] NGRx
 - [ ] WebPack
-
-adasdasd
- <br /> asdasdasd
