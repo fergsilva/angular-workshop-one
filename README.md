@@ -2,16 +2,16 @@
 
 - [x] Overview
 - [ ] CLI
-One way data flow
-Dependency Injection
-Components
-Directives
-Templates
-ngModules
-Routing
-State Change
-Pipes
-Testing
-RxJS
-NGRx
-WebPack
+- [ ] One way data flow
+- [ ] Dependency Injection
+- [ ] Components
+- [ ] Directives
+- [ ] Templates
+- [ ] ngModules
+- [ ] Routing
+- [ ] State Change
+- [ ] Pipes
+- [ ] Testing
+- [ ] RxJS  
+- [ ] NGRx
+- [ ] WebPack
