@@ -1,5 +1,7 @@
 # angular-workshop-one
 
+- [x] Overview
+- [] CLI
 One way data flow
 Dependency Injection
 Components
@@ -8,3 +10,8 @@ Templates
 ngModules
 Routing
 State Change
+Pipes
+Testing
+RxJS
+NGRx
+WebPack
