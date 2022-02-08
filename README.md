@@ -12,6 +12,8 @@
 - [ ] State Change
 - [ ] Pipes
 - [ ] Testing
-- [ ] RxJS  
+- [ ] RxJS
 - [ ] NGRx
 - [ ] WebPack
+
+adasdasd   asdasdasd
