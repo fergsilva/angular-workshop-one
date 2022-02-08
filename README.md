@@ -1,7 +1,7 @@
 # angular-workshop-one
 
 - [x] Overview
-- [] CLI
+- [ ] CLI
 One way data flow
 Dependency Injection
 Components
